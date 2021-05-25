@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Promos>
+  <ChainID>72906</ChainID>
+  <SubChainID>0</SubChainID>
+  <StoreID>071</StoreID>
+  <BikoretNo>000</BikoretNo>
+  <Sales>
+    <Sale>
+      <PriceUpdateDate>2020/05/03 16:18:12</PriceUpdateDate>
+      <ItemCode>7290005287602</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>3</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>307311</PromotionID>
+      <PromotionDescription>5.90  טונה סאארכיסט 160 גר</PromotionDescription>
+      <PromotionStartDate>2020/05/03</PromotionStartDate>
+      <PromotionStartHour>23:30:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:00</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>1</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>3</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>5.90</DiscountedPrice>
+      <DiscountedPricePerMida>3.69</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+  </Sales>
+</Promos>

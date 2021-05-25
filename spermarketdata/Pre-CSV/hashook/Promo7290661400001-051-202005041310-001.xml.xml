@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Promos>
+  <ChainID>72906</ChainID>
+  <SubChainID>0</SubChainID>
+  <StoreID>051</StoreID>
+  <BikoretNo>000</BikoretNo>
+  <Sales>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 12:36:01</PriceUpdateDate>
+      <ItemCode>7290106662223</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>3</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>927</PromotionID>
+      <PromotionDescription>אפיפית  ב9.90ש בטעם שוקולד 400גר ללא גלוטן*</PromotionDescription>
+      <PromotionDescription2>אפיפית שוקולד 400 גרם ללא גלוטן עלית</PromotionDescription2>
+      <PromotionStartDate>2020/05/03</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/09</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>1</MinQty>
+      <MaxQty>1</MaxQty>
+      <DiscountRate>7</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>100</MinPurchaseAmount>
+      <DiscountedPrice>9.90</DiscountedPrice>
+      <DiscountedPricePerMida>2.48</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+  </Sales>
+</Promos>

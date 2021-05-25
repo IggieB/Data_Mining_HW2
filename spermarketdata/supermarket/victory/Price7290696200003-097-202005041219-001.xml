@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Prices>
+  <ChainID>7290696200003</ChainID>
+  <SubChainID>001</SubChainID>
+  <StoreID>097</StoreID>
+  <BikoretNo>000</BikoretNo>
+  <Products>
+    <Product>
+      <PriceUpdateDate>2019/09/30 01:31</PriceUpdateDate>
+      <ItemCode>2004</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>אבטיח</ItemName>
+      <ManufactureName>*210506</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>5.90</ItemPrice>
+      <UnitOfMeasurePrice>5.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/03/15 11:52</PriceUpdateDate>
+      <ItemCode>2007</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>בטטה</ItemName>
+      <ManufactureName>*205195</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>8.90</ItemPrice>
+      <UnitOfMeasurePrice>8.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/05/03 11:07</PriceUpdateDate>
+      <ItemCode>2009</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>בננות</ItemName>
+      <ManufactureName>גליל שוק מקומי אגשח בעמ - (לא</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>6.90</ItemPrice>
+      <UnitOfMeasurePrice>6.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/04/30 15:23</PriceUpdateDate>
+      <ItemCode>2010</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>בצל יבש</ItemName>
+      <ManufactureName>*201922</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>3.90</ItemPrice>
+      <UnitOfMeasurePrice>3.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/04/19 10:01</PriceUpdateDate>
+      <ItemCode>2014</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>גזר ארוז</ItemName>
+      <ManufactureName>גזר שליט (חוות מיכאל)בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>4.90</ItemPrice>
+      <UnitOfMeasurePrice>4.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/04/19 10:01</PriceUpdateDate>
+      <ItemCode>2016</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>דלורית</ItemName>
+      <ManufactureName>שוסטר תעשיות מזון בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>9.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/12/15 15:16</PriceUpdateDate>
+      <ItemCode>2020</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>חסה רגילה</ItemName>
+      <ManufactureName>הירוקים של רצון בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>יח`</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>4.90</ItemPrice>
+      <UnitOfMeasurePrice>4.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/03/29 11:20</PriceUpdateDate>
+      <ItemCode>2021</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>חצילים</ItemName>
+      <ManufactureName>שיווק רפול</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>6.90</ItemPrice>
+      <UnitOfMeasurePrice>6.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/04/28 11:32</PriceUpdateDate>
+      <ItemCode>2023</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>תפוח יונתן</ItemName>
+      <ManufactureName>בראשית - אגודה שיתופית חקלאית-</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>14.90</ItemPrice>
+      <UnitOfMeasurePrice>14.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/11/17 10:01</PriceUpdateDate>
+      <ItemCode>2024</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>כרוב לבן</ItemName>
+      <ManufactureName>תעשיות תוצרת חקלאית אביטן בני</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>3.90</ItemPrice>
+      <UnitOfMeasurePrice>3.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/03/29 11:20</PriceUpdateDate>
+      <ItemCode>2027</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>לימון</ItemName>
+      <ManufactureName>*210514</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>9.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/10/27 11:32</PriceUpdateDate>
+      <ItemCode>2034</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>תפוח סטארקינג חרמון</ItemName>
+      <ManufactureName>בראשית - אגודה שיתופית חקלאית-</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>9.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/04/19 10:01</PriceUpdateDate>
+      <ItemCode>2035</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>סלק</ItemName>
+      <ManufactureName>תעשיות תוצרת חקלאית אביטן בני</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>5.90</ItemPrice>
+      <UnitOfMeasurePrice>5.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/04/19 10:01</PriceUpdateDate>
+      <ItemCode>2036</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>עגבניה</ItemName>
+      <ManufactureName>שיווק העשור ירקות הזהב בעמ - (</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>4.90</ItemPrice>
+      <UnitOfMeasurePrice>4.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/03/29 11:20</PriceUpdateDate>
+      <ItemCode>2040</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פלפל ירוק</ItemName>
+      <ManufactureName>ד. חי שווק תוצרת חקלאית בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>9.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/05/03 11:07</PriceUpdateDate>
+      <ItemCode>2041</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פלפל חריף</ItemName>
+      <ManufactureName>ד. חי שווק תוצרת חקלאית בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>9.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/04/19 10:01</PriceUpdateDate>
+      <ItemCode>2046</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>קולורבי</ItemName>
+      <ManufactureName>תעשיות תוצרת חקלאית אביטן בני</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>6.90</ItemPrice>
+      <UnitOfMeasurePrice>6.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/05/03 11:07</PriceUpdateDate>
+      <ItemCode>2048</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>קישואים</ItemName>
+      <ManufactureName>ד. חי שווק תוצרת חקלאית בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>7.90</ItemPrice>
+      <UnitOfMeasurePrice>7.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/06/10 10:47</PriceUpdateDate>
+      <ItemCode>2058</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>תפוא לבן</ItemName>
+      <ManufactureName>*216203</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>3.90</ItemPrice>
+      <UnitOfMeasurePrice>3.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/04/16 14:49</PriceUpdateDate>
+      <ItemCode>2059</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>תפוזים</ItemName>
+      <ManufactureName>תעשיות תוצרת חקלאית אביטן בני</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>4.90</ItemPrice>
+      <UnitOfMeasurePrice>4.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/05/03 11:07</PriceUpdateDate>
+      <ItemCode>2060</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>תירס ארוז</ItemName>
+      <ManufactureName>בננות החוף אגשח בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>8.90</ItemPrice>
+      <UnitOfMeasurePrice>8.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/05/03 11:07</PriceUpdateDate>
+      <ItemCode>2064</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>כרוב אדום</ItemName>
+      <ManufactureName>תעשיות תוצרת חקלאית אביטן בני</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>5.90</ItemPrice>
+      <UnitOfMeasurePrice>5.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/03/29 11:20</PriceUpdateDate>
+      <ItemCode>2066</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פלפל בהיר</ItemName>
+      <ManufactureName>ד. חי שווק תוצרת חקלאית בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>9.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/05/03 11:07</PriceUpdateDate>
+      <ItemCode>2080</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>נקטרינה</ItemName>
+      <ManufactureName>*213707</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>15.90</ItemPrice>
+      <UnitOfMeasurePrice>15.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/05/03 11:07</PriceUpdateDate>
+      <ItemCode>2090</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>שסק</ItemName>
+      <ManufactureName>אלדד קליימן שיווק בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>12.90</ItemPrice>
+      <UnitOfMeasurePrice>12.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/05/03 11:07</PriceUpdateDate>
+      <ItemCode>2091</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>אפרסק</ItemName>
+      <ManufactureName>*213707</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>15.90</ItemPrice>
+      <UnitOfMeasurePrice>15.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/06/10 10:47</PriceUpdateDate>
+      <ItemCode>2120</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>תפוא אדום</ItemName>
+      <ManufactureName>*216203</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>4.90</ItemPrice>
+      <UnitOfMeasurePrice>4.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/11/25 01:32</PriceUpdateDate>
+      <ItemCode>23489</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>דג סלמון נורבגי טרי שלם - נקי</ItemName>
+      <ManufactureName>מאסטרפוד בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure> 100 גרם</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>59.90</ItemPrice>
+      <UnitOfMeasurePrice>59.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/01/21 15:46</PriceUpdateDate>
+      <ItemCode>282305</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>דג לברק טרי נקי</ItemName>
+      <ManufactureName>מאסטרפוד בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>59.90</ItemPrice>
+      <UnitOfMeasurePrice>59.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/01/21 15:46</PriceUpdateDate>
+      <ItemCode>366203</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>דג בורי טרי נקי</ItemName>
+      <ManufactureName>מאסטרפוד בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>39</ItemPrice>
+      <UnitOfMeasurePrice>39</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/11/04 13:47</PriceUpdateDate>
+      <ItemCode>372204</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>דג ברמונדי נקי שלם</ItemName>
+      <ManufactureName>מאסטרפוד בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>49.90</ItemPrice>
+      <UnitOfMeasurePrice>49.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/12/21 03:37</PriceUpdateDate>
+      <ItemCode>571515</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה סלמון נורבגי שלם -טרי</ItemName>
+      <ManufactureName>מאסטרפוד בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty> 1 ק"ג</UnitQty>
+      <Quantity>10</Quantity>
+      <UnitMeasure> 100 גרם</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>99</ItemPrice>
+      <UnitOfMeasurePrice>9.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/06/10 10:47</PriceUpdateDate>
+      <ItemCode>986708</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>ענבים אדומים ארוז</ItemName>
+      <ManufactureName>פירות אביב בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>יח`</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>39.90</ItemPrice>
+      <UnitOfMeasurePrice>39.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/05/04 11:52</PriceUpdateDate>
+      <ItemCode>7290005287251</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>טונה סטארקיסט במים 160 גר` רביעייה</ItemName>
+      <ManufactureName>סטארקיסט דיפלומט היינץ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>יח`</UnitQty>
+      <Quantity>6.40</Quantity>
+      <UnitMeasure> 100 גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>24.90</ItemPrice>
+      <UnitOfMeasurePrice>3.89</UnitOfMeasurePrice>
+      <AllowDiscount>0</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+  </Products>
+</Prices>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Promos>
+  <ChainID>72906</ChainID>
+  <SubChainID>0</SubChainID>
+  <StoreID>077</StoreID>
+  <BikoretNo>000</BikoretNo>
+  <Sales>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 12:07:10</PriceUpdateDate>
+      <ItemCode>4000522009747</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>2280962</PromotionID>
+      <PromotionDescription>בייגלה 3ב10ש ציו 100ג</PromotionDescription>
+      <PromotionDescription2>בייגלה צ'יו 100 גרם</PromotionDescription2>
+      <PromotionStartDate>2020/05/03</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>3</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>0.57</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>10</DiscountedPrice>
+      <DiscountedPricePerMida>4.17</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 12:07:10</PriceUpdateDate>
+      <ItemCode>4000522061752</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>2280962</PromotionID>
+      <PromotionDescription>בייגלה 3ב10ש ציו 100ג</PromotionDescription>
+      <PromotionDescription2>בייגלה צ'יו 100 גרם</PromotionDescription2>
+      <PromotionStartDate>2020/05/03</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>3</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>0.57</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>10</DiscountedPrice>
+      <DiscountedPricePerMida>10</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 12:16:41</PriceUpdateDate>
+      <ItemCode>403</ItemCode>
+      <ItemType>0</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>3</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>9307</PromotionID>
+      <PromotionDescription>פילה סלמון ב79.90 מוגבל ל3ק"ג</PromotionDescription>
+      <PromotionDescription2>פילה סלמון טרי</PromotionDescription2>
+      <PromotionStartDate>2020/05/04</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/09</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>1</MinQty>
+      <MaxQty>6</MaxQty>
+      <DiscountRate>20</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>79.90</DiscountedPrice>
+      <DiscountedPricePerMida>0</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>6</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+  </Sales>
+</Promos>

@@ -1,0 +1,2929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Prices>
+  <ChainID>7290661400001</ChainID>
+  <SubChainID>001</SubChainID>
+  <StoreID>011</StoreID>
+  <BikoretNo>000</BikoretNo>
+  <Products>
+    <Product>
+      <PriceUpdateDate>2016/11/14 14:21</PriceUpdateDate>
+      <ItemCode>403</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>דג פילה סלמון טרי</ItemName>
+      <ManufactureName>ח.י. מעדני גורמה בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>99.90</ItemPrice>
+      <UnitOfMeasurePrice>99.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/01/14 09:59</PriceUpdateDate>
+      <ItemCode>42209</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>בשר טחון טרי מנתח מובחר</ItemName>
+      <ManufactureName>ח.י. מעדני גורמה בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>59.90</ItemPrice>
+      <UnitOfMeasurePrice>59.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/06/24 08:38</PriceUpdateDate>
+      <ItemCode>7290000238029</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בצק עלים  צרפתי מעדנות 1 קג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>21.90</ItemPrice>
+      <UnitOfMeasurePrice>21.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2017/11/30 14:38</PriceUpdateDate>
+      <ItemCode>7290000238173</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס גבינה מעדנות 800 ג`</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>800</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>2.49</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/03 13:46</PriceUpdateDate>
+      <ItemCode>7290000238180</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס מעדנות תפו"א</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>800</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>2.49</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/03 13:46</PriceUpdateDate>
+      <ItemCode>7290000239941</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מלווח חיסכוני 1.4 ק"ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>1.40</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>27.90</ItemPrice>
+      <UnitOfMeasurePrice>19.93</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 13:33</PriceUpdateDate>
+      <ItemCode>7290000240541</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>ריבועי בצק עלים</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>800</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>24.90</ItemPrice>
+      <UnitOfMeasurePrice>3.11</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 13:33</PriceUpdateDate>
+      <ItemCode>7290000240558</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בלינצ ס עלים</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>700</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>28.90</ItemPrice>
+      <UnitOfMeasurePrice>4.13</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/02/27 10:20</PriceUpdateDate>
+      <ItemCode>7290000300900</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>שניצל תירס 750 גרם</ItemName>
+      <ManufactureName>קבוצת אוסם סחר-שות.מוגבלת</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>750</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>25.90</ItemPrice>
+      <UnitOfMeasurePrice>3.45</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/04/20 09:37</PriceUpdateDate>
+      <ItemCode>7290000611136</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>כבד  פטם}קפוא{</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>14.90</ItemPrice>
+      <UnitOfMeasurePrice>14.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2017/11/30 14:38</PriceUpdateDate>
+      <ItemCode>7290000631004</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>כבד עוף קפוא</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>12.90</ItemPrice>
+      <UnitOfMeasurePrice>12.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/04/19 14:16</PriceUpdateDate>
+      <ItemCode>7290000632452</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>כרעיים עוף טרי(קצביה )**.</ItemName>
+      <ManufactureName>ח.י. מעדני גורמה בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>27.90</ItemPrice>
+      <UnitOfMeasurePrice>27.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2017/11/15 13:32</PriceUpdateDate>
+      <ItemCode>2247859</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>כבד עוף קפוא.</ItemName>
+      <ManufactureName>טל-הל יסכה בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>15.90</ItemPrice>
+      <UnitOfMeasurePrice>15.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/02/04 09:40</PriceUpdateDate>
+      <ItemCode>2277927</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון גדלים שונים נטו</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/09 14:25</PriceUpdateDate>
+      <ItemCode>2321750</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון מאסטאר פוד</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>48</ItemPrice>
+      <UnitOfMeasurePrice>48</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/08/01 10:43</PriceUpdateDate>
+      <ItemCode>2596677</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון קפוא</ItemName>
+      <ManufactureName>בלדי בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2017/10/04 08:02</PriceUpdateDate>
+      <ItemCode>2603027</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה נקי נקי ענק</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>34.90</ItemPrice>
+      <UnitOfMeasurePrice>34.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/02/14 10:43</PriceUpdateDate>
+      <ItemCode>2657806</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון גדלים שונים נטו</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/02/04 09:40</PriceUpdateDate>
+      <ItemCode>2657866</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון גדלים שונים נטו</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/03/28 09:54</PriceUpdateDate>
+      <ItemCode>2775270</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון דלידג גדלים שונים</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>2830616</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון גדלים שונים</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2017/11/30 14:38</PriceUpdateDate>
+      <ItemCode>2867661</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>כבד עוף קפוא</ItemName>
+      <ManufactureName>טרי וחלק 2 בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>12.90</ItemPrice>
+      <UnitOfMeasurePrice>12.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/04/27 08:06</PriceUpdateDate>
+      <ItemCode>2909743</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון גדלים שונים בלדי</ItemName>
+      <ManufactureName>בלדי בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/04/27 08:06</PriceUpdateDate>
+      <ItemCode>2909781</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון בלדי גדלים שונים</ItemName>
+      <ManufactureName>בלדי בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/02/04 09:40</PriceUpdateDate>
+      <ItemCode>2929505</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון גדלים שונים נטו דלידג</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>7290012982873</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פילה אמנון בוואקום</ItemName>
+      <ManufactureName>בלדי בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>7290013089809</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>דג פילה אמנון</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>3211624</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון גדלים שונים נטו</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>3406289</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון קפוא</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/04/27 08:06</PriceUpdateDate>
+      <ItemCode>3598304</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון גדלים שונים בלדי</ItemName>
+      <ManufactureName>בלדי בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/04/27 08:06</PriceUpdateDate>
+      <ItemCode>3598731</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון פרמיום 5-7</ItemName>
+      <ManufactureName>בלדי בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>3893416</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון גדלים שונים בלדי</ItemName>
+      <ManufactureName>בלדי בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>4048518</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון גדלים שונים נטו</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/04/19 12:23</PriceUpdateDate>
+      <ItemCode>4048525</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון דלידג</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>200</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>16.45</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>4048532</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון דלי דג</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>4225094</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון גדלים שונים תיבול פלפל</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>4225216</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון קפוא</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>4225223</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון קפוא</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>4225230</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון גדלים שונים קפוא</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>4225247</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון גדלים שונים  קפוא</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/12/03 07:53</PriceUpdateDate>
+      <ItemCode>4228354</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון  קפוא(דלידג)</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>י"ח</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>4405776</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון קפוא</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>4477087</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון קפוא בווקום גדלים שונים</ItemName>
+      <ManufactureName>בלדי בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2013/12/18 18:56</PriceUpdateDate>
+      <ItemCode>7290005559549</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בלינצ ס גבינה</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>500</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>26.90</ItemPrice>
+      <UnitOfMeasurePrice>5.38</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 15:22</PriceUpdateDate>
+      <ItemCode>7290005559587</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>נקניקיות בבצק]מעדנות[</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>800</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>28.90</ItemPrice>
+      <UnitOfMeasurePrice>3.61</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 15:22</PriceUpdateDate>
+      <ItemCode>7290005559662</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקיטס פריך גבינה</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>650</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>27.90</ItemPrice>
+      <UnitOfMeasurePrice>4.29</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 15:22</PriceUpdateDate>
+      <ItemCode>7290005559709</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס  פיצה}מעדנות{</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>700</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>27.90</ItemPrice>
+      <UnitOfMeasurePrice>3.99</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 15:22</PriceUpdateDate>
+      <ItemCode>7290005559884</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>אמפנדס בשר]מעדנות[</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>650</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>29.90</ItemPrice>
+      <UnitOfMeasurePrice>4.60</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/01 11:51</PriceUpdateDate>
+      <ItemCode>5559907</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פיצה משפחתית גבינה 500 ג מעדנות</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>500</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>23.90</ItemPrice>
+      <UnitOfMeasurePrice>4.78</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/01 11:51</PriceUpdateDate>
+      <ItemCode>7290005559914</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה משפחתית זיתים 550ג"ר מעדנות</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>550</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>23.90</ItemPrice>
+      <UnitOfMeasurePrice>4.35</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/03 13:46</PriceUpdateDate>
+      <ItemCode>7290005559945</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה אישית גבינה</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>750</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>36.90</ItemPrice>
+      <UnitOfMeasurePrice>4.92</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/03 13:46</PriceUpdateDate>
+      <ItemCode>7290005559952</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה אישית עגולה זיתים</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>850</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>36.90</ItemPrice>
+      <UnitOfMeasurePrice>4.34</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2015/07/05 11:17</PriceUpdateDate>
+      <ItemCode>7290005559969</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה משולשת 750 גרם</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>750</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>36.90</ItemPrice>
+      <UnitOfMeasurePrice>4.92</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/03 13:46</PriceUpdateDate>
+      <ItemCode>7290005559976</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה משולש זיתים</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>850</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>36.90</ItemPrice>
+      <UnitOfMeasurePrice>4.34</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/03/07 14:34</PriceUpdateDate>
+      <ItemCode>7290005559983</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>חטיפי פיצה מעדנות</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>650</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>33</ItemPrice>
+      <UnitOfMeasurePrice>5.08</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 15:22</PriceUpdateDate>
+      <ItemCode>7290005559990</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בצק פילאס טורקי</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>23.90</ItemPrice>
+      <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/03/03 13:20</PriceUpdateDate>
+      <ItemCode>5966033</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>יין הר חרמון לבן 750 מ"ל</ItemName>
+      <ManufactureName>היכל היין שקד גולן בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>750</Quantity>
+      <UnitMeasure>ל  מ"ל</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>4.35</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>7290006131713</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פילה אמנון גדלים שונים</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/10/23 08:10</PriceUpdateDate>
+      <ItemCode>6155006</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון גדולים שונים בלדי</ItemName>
+      <ManufactureName>בלדי בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/03 13:46</PriceUpdateDate>
+      <ItemCode>6271174</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>ג חנון  בצק}מעדנות 700 ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>700</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>17.90</ItemPrice>
+      <UnitOfMeasurePrice>2.56</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/03 13:46</PriceUpdateDate>
+      <ItemCode>7290006271181</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>ג חנון מעדנות אפוי למיקרוגל 750 ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>750</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>23.90</ItemPrice>
+      <UnitOfMeasurePrice>3.19</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/19 10:40</PriceUpdateDate>
+      <ItemCode>7290006271273</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מיני בורקס תפו"א מעדנות</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>800</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>24.50</ItemPrice>
+      <UnitOfMeasurePrice>3.06</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/19 10:40</PriceUpdateDate>
+      <ItemCode>7290006271280</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מיני בורקס גבינה מעדנות</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>800</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>27</ItemPrice>
+      <UnitOfMeasurePrice>3.38</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/03 13:46</PriceUpdateDate>
+      <ItemCode>7290006271631</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>ריבועי פיצה זיתים</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>710</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>34.20</ItemPrice>
+      <UnitOfMeasurePrice>4.82</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 15:22</PriceUpdateDate>
+      <ItemCode>7290006271648</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מיני בורקס תפו"א</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>650</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>24.90</ItemPrice>
+      <UnitOfMeasurePrice>3.83</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/12/30 07:47</PriceUpdateDate>
+      <ItemCode>7290006271655</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מיני בורקס גבינה</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>800</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>25.90</ItemPrice>
+      <UnitOfMeasurePrice>3.24</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/03 13:46</PriceUpdateDate>
+      <ItemCode>7290006271747</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בצק עלים קמח מלא 1 ק"ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>21.90</ItemPrice>
+      <UnitOfMeasurePrice>21.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 15:22</PriceUpdateDate>
+      <ItemCode>7290006271754</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>ג חנון בצק 1 ק"ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>23.90</ItemPrice>
+      <UnitOfMeasurePrice>23.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 15:22</PriceUpdateDate>
+      <ItemCode>7290006271761</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מיני ג חנון אפוי</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>23.90</ItemPrice>
+      <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/06/24 08:38</PriceUpdateDate>
+      <ItemCode>7290006272430</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בצק עלים חמאה</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>26.90</ItemPrice>
+      <UnitOfMeasurePrice>4.48</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/03 13:46</PriceUpdateDate>
+      <ItemCode>7290006272744</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מלווח פלופק 700 ג`</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>700</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>12.90</ItemPrice>
+      <UnitOfMeasurePrice>1.84</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/04/20 09:37</PriceUpdateDate>
+      <ItemCode>6707123</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>כבד עוף ארוז קפוא.</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure />
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>14.90</ItemPrice>
+      <UnitOfMeasurePrice>14.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/05/07 08:46</PriceUpdateDate>
+      <ItemCode>8347891</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון גדלים שונים נטו דלידג</ItemName>
+      <ManufactureName>נטו מלינדה סחר בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>ק"ג</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>1</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>32.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/01 11:51</PriceUpdateDate>
+      <ItemCode>7290013117212</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס פילו במילוי גבינה 600 גר`מעדנות</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>3.32</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/01 11:51</PriceUpdateDate>
+      <ItemCode>7290013117229</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס פילו במילוי תפו"א 600גר`</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>3.32</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/01 11:51</PriceUpdateDate>
+      <ItemCode>7290013117236</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס פילו פיצה 600גר`</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>3.32</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/01 11:51</PriceUpdateDate>
+      <ItemCode>7290013117243</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס פילו בולגרית 600גר`</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>3.32</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/01 11:51</PriceUpdateDate>
+      <ItemCode>7290013117250</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס פילו במילוי תרד וגבינה 600גר`</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>3.32</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2013/12/18 18:56</PriceUpdateDate>
+      <ItemCode>7290013117359</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בצק עלים  900גרם  }מעדנות{</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>900</Quantity>
+      <UnitMeasure>ל  מ"ל</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>21.90</ItemPrice>
+      <UnitOfMeasurePrice>2.43</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 15:22</PriceUpdateDate>
+      <ItemCode>7290013117410</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בצק עלים פריך   מתוק}מעדנות{900גר</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>900</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>23.90</ItemPrice>
+      <UnitOfMeasurePrice>2.66</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/06/24 08:38</PriceUpdateDate>
+      <ItemCode>7290013117427</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בצק עלים פריך   מלוח}מעדנות{900גר</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>900</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>22.90</ItemPrice>
+      <UnitOfMeasurePrice>2.54</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/01 11:51</PriceUpdateDate>
+      <ItemCode>7290013117441</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס פילו במילוי פטריות 600גר`</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>3.32</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/01 11:51</PriceUpdateDate>
+      <ItemCode>7290013117502</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס פילו במילוי תרד 600גרם</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>3.32</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2015/08/31 10:51</PriceUpdateDate>
+      <ItemCode>7290013117526</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בצק שמרים למאפים מתוקים 900גרם</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>900</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>21.40</ItemPrice>
+      <UnitOfMeasurePrice>2.38</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/19 10:40</PriceUpdateDate>
+      <ItemCode>7290013117601</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מארז 3 פיצות גבינה</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>1.20</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>40</ItemPrice>
+      <UnitOfMeasurePrice>33.33</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2015/09/02 09:35</PriceUpdateDate>
+      <ItemCode>7290013117663</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס פילו ארבע גבינות 500ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>800</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>21.90</ItemPrice>
+      <UnitOfMeasurePrice>2.74</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2015/08/31 10:51</PriceUpdateDate>
+      <ItemCode>7290013117670</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>אצבעות פילו גבינה וניל</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>800</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>15.90</ItemPrice>
+      <UnitOfMeasurePrice>1.99</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/03 13:46</PriceUpdateDate>
+      <ItemCode>7290013117700</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מאפה פילו במילוי עוף 700גר</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>700</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>35.90</ItemPrice>
+      <UnitOfMeasurePrice>5.13</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/03 13:46</PriceUpdateDate>
+      <ItemCode>7290013117717</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מאפה פילו במילוי תפו"א 740גר</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>740</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>25.50</ItemPrice>
+      <UnitOfMeasurePrice>3.45</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/03 13:46</PriceUpdateDate>
+      <ItemCode>7290013117724</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה טוסט גבינה 800ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>800</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>28.50</ItemPrice>
+      <UnitOfMeasurePrice>3.56</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/03 13:46</PriceUpdateDate>
+      <ItemCode>7290013117731</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה טוסט גבינה וזיתים 800ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>800</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>28.50</ItemPrice>
+      <UnitOfMeasurePrice>3.56</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/19 10:40</PriceUpdateDate>
+      <ItemCode>7290013117823</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בצק לפיצה דק 400גר</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>900</Quantity>
+      <UnitMeasure>ל  מ"ל</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19</ItemPrice>
+      <UnitOfMeasurePrice>2.11</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/01/19 10:40</PriceUpdateDate>
+      <ItemCode>7290013117830</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בצק לפיצה עבה 400גר</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>900</Quantity>
+      <UnitMeasure>ל  מ"ל</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19</ItemPrice>
+      <UnitOfMeasurePrice>2.11</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2014/12/12 07:16</PriceUpdateDate>
+      <ItemCode>7290014218086</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>זוג פיצה משפחתי בחבק</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>50</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>30.90</ItemPrice>
+      <UnitOfMeasurePrice>61.80</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/12/30 09:44</PriceUpdateDate>
+      <ItemCode>7290014218093</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה מקמח מלא 500ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>50</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>25.90</ItemPrice>
+      <UnitOfMeasurePrice>51.80</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/03/07 14:34</PriceUpdateDate>
+      <ItemCode>7290014218130</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה דקה מעדנות{</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>380</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>14.90</ItemPrice>
+      <UnitOfMeasurePrice>3.92</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/03/07 14:34</PriceUpdateDate>
+      <ItemCode>7290014218154</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה דקה בתיבול שום 410ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>410</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>14.90</ItemPrice>
+      <UnitOfMeasurePrice>3.63</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2015/06/28 10:17</PriceUpdateDate>
+      <ItemCode>7290014218178</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה אישית מלבן  200ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>200</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>5.50</ItemPrice>
+      <UnitOfMeasurePrice>2.75</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 15:22</PriceUpdateDate>
+      <ItemCode>7290014218215</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מיני מלאווח 530 ג}מעדנות{</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>530</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>12.90</ItemPrice>
+      <UnitOfMeasurePrice>2.43</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2015/06/28 10:17</PriceUpdateDate>
+      <ItemCode>7290014218222</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מלוואח 234ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>234</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>5.50</ItemPrice>
+      <UnitOfMeasurePrice>2.35</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2015/06/28 10:17</PriceUpdateDate>
+      <ItemCode>7290014218239</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס תפו"א   200ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>180</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>5.50</ItemPrice>
+      <UnitOfMeasurePrice>3.06</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2015/06/28 10:17</PriceUpdateDate>
+      <ItemCode>7290014218246</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס גבינה   200ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>180</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>5.50</ItemPrice>
+      <UnitOfMeasurePrice>3.06</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2015/10/18 12:44</PriceUpdateDate>
+      <ItemCode>7290014218291</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בצק פילו 500גר</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>500</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>21.90</ItemPrice>
+      <UnitOfMeasurePrice>4.38</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2015/10/18 12:44</PriceUpdateDate>
+      <ItemCode>7290014218307</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בצק פילו עם קמח מלא 500גר</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>500</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>21.90</ItemPrice>
+      <UnitOfMeasurePrice>4.38</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2015/11/18 09:21</PriceUpdateDate>
+      <ItemCode>7290014218314</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מאגדת בורקס עלים תפו"א 1.6ק"ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>1.60</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>28.90</ItemPrice>
+      <UnitOfMeasurePrice>18.06</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 15:22</PriceUpdateDate>
+      <ItemCode>7290014218321</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס  יפו מעדנות גבינה 600ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>18.90</ItemPrice>
+      <UnitOfMeasurePrice>3.15</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/01/10 10:28</PriceUpdateDate>
+      <ItemCode>7290014218338</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס יפו מעדנות תפו"א  600ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>15.90</ItemPrice>
+      <UnitOfMeasurePrice>2.65</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/04/15 09:23</PriceUpdateDate>
+      <ItemCode>7290014218406</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בצק שמרים עלים חמאה</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>26.90</ItemPrice>
+      <UnitOfMeasurePrice>4.48</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/04/15 09:23</PriceUpdateDate>
+      <ItemCode>7290014218413</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בצק פריך מתוק חמאה</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>26.90</ItemPrice>
+      <UnitOfMeasurePrice>4.48</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/07/20 10:49</PriceUpdateDate>
+      <ItemCode>7290014218475</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>חטיפי פיצה גבינה על בסיס קמח מלא מעדנות</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>650</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>29.90</ItemPrice>
+      <UnitOfMeasurePrice>4.60</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/06/10 09:58</PriceUpdateDate>
+      <ItemCode>7290014218482</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>חטיפי פיצה גבינה בד"צ650ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>650</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>34.90</ItemPrice>
+      <UnitOfMeasurePrice>5.37</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/01 11:51</PriceUpdateDate>
+      <ItemCode>7290014218499</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה משפחתית גבינה 500ג בד"צ</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>1.08</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>23.90</ItemPrice>
+      <UnitOfMeasurePrice>22.13</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/09/02 08:10</PriceUpdateDate>
+      <ItemCode>7290014218505</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>שלישיית פיצות בחבק *360ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>1.08</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>29.90</ItemPrice>
+      <UnitOfMeasurePrice>27.69</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/12/08 09:01</PriceUpdateDate>
+      <ItemCode>7290014218536</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בצק עלים מופחת שומן 1ק"ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>1</Quantity>
+      <UnitMeasure>ק"ג</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>21.90</ItemPrice>
+      <UnitOfMeasurePrice>21.90</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2016/12/08 09:01</PriceUpdateDate>
+      <ItemCode>7290014218543</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה ביאנקה ברוטב שמנת ותרד</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>560</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>24.90</ItemPrice>
+      <UnitOfMeasurePrice>4.45</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 15:22</PriceUpdateDate>
+      <ItemCode>7290014218550</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס  יפו תרד וגבינה600ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>21.90</ItemPrice>
+      <UnitOfMeasurePrice>3.65</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2017/05/11 10:18</PriceUpdateDate>
+      <ItemCode>7290014218567</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>שטרודל תפוח עץ  600ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>3.32</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 15:22</PriceUpdateDate>
+      <ItemCode>7290014218581</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פוקצה 600ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>14.90</ItemPrice>
+      <UnitOfMeasurePrice>2.48</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2017/05/11 10:18</PriceUpdateDate>
+      <ItemCode>7290014218598</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פוקצה מקמח מלא 600ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>600</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>13.90</ItemPrice>
+      <UnitOfMeasurePrice>2.32</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/15 15:22</PriceUpdateDate>
+      <ItemCode>7290014218611</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה עם בצק עגבניות מעדנות 460ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>460</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>25.90</ItemPrice>
+      <UnitOfMeasurePrice>5.63</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/01 11:51</PriceUpdateDate>
+      <ItemCode>7290014218628</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה עם בצק תרד מעדנות 460ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>460</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>23.90</ItemPrice>
+      <UnitOfMeasurePrice>5.20</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/01 11:51</PriceUpdateDate>
+      <ItemCode>7290014218635</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה עם בצק פלפלים מעדנות 460ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>460</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>23.90</ItemPrice>
+      <UnitOfMeasurePrice>5.20</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/07/01 11:51</PriceUpdateDate>
+      <ItemCode>7290014218666</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה פוקציה מרגריטה</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>490</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>23.90</ItemPrice>
+      <UnitOfMeasurePrice>4.88</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2017/12/21 10:37</PriceUpdateDate>
+      <ItemCode>7290014218673</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה פוקציה בסגנון יווני</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>490</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>24.90</ItemPrice>
+      <UnitOfMeasurePrice>5.08</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/03/18 11:45</PriceUpdateDate>
+      <ItemCode>7290014218697</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס  יפו משפחתי שבלול גבינה500ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>500</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>17.90</ItemPrice>
+      <UnitOfMeasurePrice>3.58</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/03/18 11:45</PriceUpdateDate>
+      <ItemCode>7290014218703</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס  יפו משפחתי שבלול תפו"א 500ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>500</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>15.90</ItemPrice>
+      <UnitOfMeasurePrice>3.18</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/03/18 11:45</PriceUpdateDate>
+      <ItemCode>7290014218710</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס  יפו משפחתי שבלול תרד גבינה 500ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>500</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>20.90</ItemPrice>
+      <UnitOfMeasurePrice>4.18</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/01/30 10:12</PriceUpdateDate>
+      <ItemCode>7290014218758</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>שטרודל תפוחי עץ   קפוא</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>500</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/04/12 09:30</PriceUpdateDate>
+      <ItemCode>7290014218772</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>פיצה פוקציה ביאנקה בזיליקום</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>490</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>23.90</ItemPrice>
+      <UnitOfMeasurePrice>4.88</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/04/12 09:30</PriceUpdateDate>
+      <ItemCode>7290014218789</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>עוגת קראנץ שמרים שוקולד קפוא</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>500</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/01/30 10:12</PriceUpdateDate>
+      <ItemCode>7290014218826</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>עוגת קראנץ שמרים שוקולד קפוא</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>500</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/01/30 10:12</PriceUpdateDate>
+      <ItemCode>7290014218833</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>עוגת קראנץ שמרים חלבה שוקולד  קפוא</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>500</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/01/30 10:12</PriceUpdateDate>
+      <ItemCode>7290014218840</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>עוגת קראנץ שמרים נוגט קפוא</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>500</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/01/30 10:12</PriceUpdateDate>
+      <ItemCode>7290014218857</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>שטרודל גבינה   קפוא</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>500</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>19.90</ItemPrice>
+      <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/08/26 13:56</PriceUpdateDate>
+      <ItemCode>7290014218888</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס גבינה מופחת שומן 800ג.</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>800</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>22.90</ItemPrice>
+      <UnitOfMeasurePrice>2.86</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2018/08/26 13:56</PriceUpdateDate>
+      <ItemCode>7290014218895</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בורקס תפו"א  מופחת שומן 800ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>800</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>22.90</ItemPrice>
+      <UnitOfMeasurePrice>2.86</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/04/12 09:30</PriceUpdateDate>
+      <ItemCode>7290014218932</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>חטיפי פיצה  עם זיתים מעדנות</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>710</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>4.63</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2019/11/11 08:38</PriceUpdateDate>
+      <ItemCode>7290014466128</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>יין הר חרמון אינדיגו 750 מ"ל</ItemName>
+      <ManufactureName>היכל היין שקד גולן בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>750</Quantity>
+      <UnitMeasure>ל  מ"ל</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>4.35</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/03/03 13:20</PriceUpdateDate>
+      <ItemCode>7290014466463</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>יין הר חרמון מוסקטו 750 מ"ל</ItemName>
+      <ManufactureName>היכל היין שקד גולן בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>750</Quantity>
+      <UnitMeasure>ל  מ"ל</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>4.35</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/03/03 13:20</PriceUpdateDate>
+      <ItemCode>7290015951890</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>יין הר חרמון קברנה סוביניון 750 מ"ל.</ItemName>
+      <ManufactureName>היכל היין שקד גולן בעמ</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>750</Quantity>
+      <UnitMeasure>ל  מ"ל</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>32.90</ItemPrice>
+      <UnitOfMeasurePrice>4.35</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/03/17 07:49</PriceUpdateDate>
+      <ItemCode>7290018091029</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מקלות פילו תפו"א  450ג קפוא</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>450</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>17.90</ItemPrice>
+      <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/01/14 12:49</PriceUpdateDate>
+      <ItemCode>7290018091401</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>שבלולי שמרים במילוי ממרח קינמון 350ג</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>350</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>16.90</ItemPrice>
+      <UnitOfMeasurePrice>4.83</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/03/17 07:49</PriceUpdateDate>
+      <ItemCode>7290018091418</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מקלות פילו פלפל קלוי וגבינה   450ג קפוא</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>450</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>17.90</ItemPrice>
+      <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/01/14 12:49</PriceUpdateDate>
+      <ItemCode>7290018091609</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>שבלולי שמרים במילוי ממרח שוקולד 350ג.</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>350</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>16.90</ItemPrice>
+      <UnitOfMeasurePrice>4.83</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/03/17 07:49</PriceUpdateDate>
+      <ItemCode>7290018091616</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מקלות פילו גבינה 450ג קפוא</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>450</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>17.90</ItemPrice>
+      <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+    <Product>
+      <PriceUpdateDate>2020/03/17 07:49</PriceUpdateDate>
+      <ItemCode>7290018091814</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מקלות פילו חציל קלוי וגבינה   450ג קפו</ItemName>
+      <ManufactureName>תנובה בשר</ManufactureName>
+      <ManufactureCountry />
+      <ManufactureItemDescription />
+      <UnitQty>י"ח</UnitQty>
+      <Quantity>450</Quantity>
+      <UnitMeasure>ל  גרם</UnitMeasure>
+      <BisWeighted>0</BisWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>17.90</ItemPrice>
+      <UnitOfMeasurePrice>3.98</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <itemStatus>1</itemStatus>
+      <LastUpdateDate />
+      <LastUpdateTime />
+    </Product>
+  </Products>
+</Prices>

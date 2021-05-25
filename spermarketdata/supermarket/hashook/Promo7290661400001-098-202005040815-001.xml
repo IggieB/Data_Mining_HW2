@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Promos>
+  <ChainID>72906</ChainID>
+  <SubChainID>0</SubChainID>
+  <StoreID>098</StoreID>
+  <BikoretNo>000</BikoretNo>
+  <Sales>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 07:13:34</PriceUpdateDate>
+      <ItemCode>7290000631424</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>1011388</PromotionID>
+      <PromotionDescription>פרגיות 2ב120ש עוף טרי</PromotionDescription>
+      <PromotionDescription2>פרגיות עוף טרי</PromotionDescription2>
+      <PromotionStartDate>2020/03/08</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2022/01/01</PromotionEndDate>
+      <PromotionEndHour>06:59:00</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>2</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>8.40</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>102.60</DiscountedPrice>
+      <DiscountedPricePerMida>102.60</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 07:24:11</PriceUpdateDate>
+      <ItemCode>5076</ItemCode>
+      <ItemType>0</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>3</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>110101</PromotionID>
+      <PromotionDescription>אנטריף 54.90 מעל 75ש"ח מוגבל ל3ק"ג  טרי</PromotionDescription>
+      <PromotionDescription2>בשר אונטריף טרי</PromotionDescription2>
+      <PromotionStartDate>2019/11/28</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2023/01/01</PromotionEndDate>
+      <PromotionEndHour>06:00:00</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>1</MinQty>
+      <MaxQty>4</MaxQty>
+      <DiscountRate>17.70</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>75</MinPurchaseAmount>
+      <DiscountedPrice>54.90</DiscountedPrice>
+      <DiscountedPricePerMida>0</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>4</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 07:17:56</PriceUpdateDate>
+      <ItemCode>7290000632759</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>18998</PromotionID>
+      <PromotionDescription>שוקיים 4ב100ש עוף טרי</PromotionDescription>
+      <PromotionDescription2>שוקיים עוף טרי</PromotionDescription2>
+      <PromotionStartDate>2020/04/22</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2023/01/01</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>4</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>12.72</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>85.50</DiscountedPrice>
+      <DiscountedPricePerMida>85.50</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 08:13:09</PriceUpdateDate>
+      <ItemCode>7290103124601</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>3</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>228227</PromotionID>
+      <PromotionDescription>פלמוליב ב15ש 750מ"ל אל סבון משאבה</PromotionDescription>
+      <PromotionDescription2>פלמוליב סבון נוזלי 750 מ"ל משאבה</PromotionDescription2>
+      <PromotionStartDate>2020/05/03</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>1</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>2.50</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>12.80</DiscountedPrice>
+      <DiscountedPricePerMida>1.71</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 08:13:09</PriceUpdateDate>
+      <ItemCode>7290105430441</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>3</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>228227</PromotionID>
+      <PromotionDescription>פלמוליב ב15ש 750מ"ל אל סבון משאבה</PromotionDescription>
+      <PromotionDescription2>פלמוליב סבון נוזלי 750 מ"ל משאבה</PromotionDescription2>
+      <PromotionStartDate>2020/05/03</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>1</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>2.50</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>12.80</DiscountedPrice>
+      <DiscountedPricePerMida>1.71</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 08:13:09</PriceUpdateDate>
+      <ItemCode>7290105430458</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>3</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>228227</PromotionID>
+      <PromotionDescription>פלמוליב ב15ש 750מ"ל אל סבון משאבה</PromotionDescription>
+      <PromotionDescription2>פלמוליב סבון נוזלי 750 מ"ל משאבה</PromotionDescription2>
+      <PromotionStartDate>2020/05/03</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>1</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>2.50</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>12.80</DiscountedPrice>
+      <DiscountedPricePerMida>1.71</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 08:13:09</PriceUpdateDate>
+      <ItemCode>7290107977456</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>3</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>228227</PromotionID>
+      <PromotionDescription>פלמוליב ב15ש 750מ"ל אל סבון משאבה</PromotionDescription>
+      <PromotionDescription2>פלמוליב סבון נוזלי 750 מ"ל משאבה</PromotionDescription2>
+      <PromotionStartDate>2020/05/03</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>1</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>6.80</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>12.80</DiscountedPrice>
+      <DiscountedPricePerMida>1.71</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 08:13:09</PriceUpdateDate>
+      <ItemCode>7290111933318</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>3</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>228227</PromotionID>
+      <PromotionDescription>פלמוליב ב15ש 750מ"ל אל סבון משאבה</PromotionDescription>
+      <PromotionDescription2>פלמוליב סבון נוזלי 750 מ"ל משאבה</PromotionDescription2>
+      <PromotionStartDate>2020/05/03</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>1</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>2.50</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>12.80</DiscountedPrice>
+      <DiscountedPricePerMida>1.71</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 08:13:09</PriceUpdateDate>
+      <ItemCode>7290111936296</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>3</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>228227</PromotionID>
+      <PromotionDescription>פלמוליב ב15ש 750מ"ל אל סבון משאבה</PromotionDescription>
+      <PromotionDescription2>פלמוליב סבון נוזלי 750 מ"ל משאבה</PromotionDescription2>
+      <PromotionStartDate>2020/05/03</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>1</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>2.50</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>12.80</DiscountedPrice>
+      <DiscountedPricePerMida>1.71</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 08:13:09</PriceUpdateDate>
+      <ItemCode>8693495052214</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>3</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>228227</PromotionID>
+      <PromotionDescription>פלמוליב ב15ש 750מ"ל אל סבון משאבה</PromotionDescription>
+      <PromotionDescription2>פלמוליב סבון נוזלי 750 מ"ל משאבה</PromotionDescription2>
+      <PromotionStartDate>2020/05/03</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>1</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>2.50</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>12.80</DiscountedPrice>
+      <DiscountedPricePerMida>1.71</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/03 17:37:46</PriceUpdateDate>
+      <ItemCode>5966033</ItemCode>
+      <ItemType>0</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>229532</PromotionID>
+      <PromotionDescription>יין 2ב59ש הר חרמון אדום :</PromotionDescription>
+      <PromotionDescription2>הר חרמון אדום 750 מ"ל</PromotionDescription2>
+      <PromotionStartDate>2020/05/04</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>2</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>0.35</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>59</DiscountedPrice>
+      <DiscountedPricePerMida>3.90</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/03 17:37:46</PriceUpdateDate>
+      <ItemCode>7290014466128</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>229532</PromotionID>
+      <PromotionDescription>יין 2ב59ש הר חרמון אדום :</PromotionDescription>
+      <PromotionDescription2>הר חרמון אדום 750 מ"ל</PromotionDescription2>
+      <PromotionStartDate>2020/05/04</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>2</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>0.35</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>59</DiscountedPrice>
+      <DiscountedPricePerMida>3.90</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/03 17:37:46</PriceUpdateDate>
+      <ItemCode>7290014466463</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>229532</PromotionID>
+      <PromotionDescription>יין 2ב59ש הר חרמון אדום :</PromotionDescription>
+      <PromotionDescription2>הר חרמון אדום 750 מ"ל</PromotionDescription2>
+      <PromotionStartDate>2020/05/04</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>2</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>0.35</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>59</DiscountedPrice>
+      <DiscountedPricePerMida>3.90</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/03 17:37:46</PriceUpdateDate>
+      <ItemCode>7290015951890</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>229532</PromotionID>
+      <PromotionDescription>יין 2ב59ש הר חרמון אדום :</PromotionDescription>
+      <PromotionDescription2>הר חרמון אדום 750 מ"ל</PromotionDescription2>
+      <PromotionStartDate>2020/05/04</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>2</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>0.35</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>59</DiscountedPrice>
+      <DiscountedPricePerMida>3.90</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/03 17:37:46</PriceUpdateDate>
+      <ItemCode>7290017647470</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>229532</PromotionID>
+      <PromotionDescription>יין 2ב59ש הר חרמון אדום :</PromotionDescription>
+      <PromotionDescription2>הר חרמון אדום 750 מ"ל</PromotionDescription2>
+      <PromotionStartDate>2020/05/04</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>2</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>0.35</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>59</DiscountedPrice>
+      <DiscountedPricePerMida>3.90</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 07:13:05</PriceUpdateDate>
+      <ItemCode>632278</ItemCode>
+      <ItemType>0</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>39666</PromotionID>
+      <PromotionDescription>שניצל 3ב120ש טרי :</PromotionDescription>
+      <PromotionDescription2>שניצל עוף טרי</PromotionDescription2>
+      <PromotionStartDate>2020/04/19</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2023/01/01</PromotionEndDate>
+      <PromotionEndHour>06:00:00</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>3</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>5.90</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>102.60</DiscountedPrice>
+      <DiscountedPricePerMida>102.60</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 07:17:00</PriceUpdateDate>
+      <ItemCode>7290000632452</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>39668</PromotionID>
+      <PromotionDescription>כרעיים 3ב69.90ש עד 2מנות   טרי :</PromotionDescription>
+      <PromotionDescription2>כרעיים עוף טרי</PromotionDescription2>
+      <PromotionStartDate>2020/04/19</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/04</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>3</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>4</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>59.70</DiscountedPrice>
+      <DiscountedPricePerMida>59.70</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 07:23:28</PriceUpdateDate>
+      <ItemCode>3416</ItemCode>
+      <ItemType>0</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>39670</PromotionID>
+      <PromotionDescription>קוקטייל 2ב65ש עוף טרי :</PromotionDescription>
+      <PromotionDescription2>קוקטייל עוף טרי מקוצב</PromotionDescription2>
+      <PromotionStartDate>2020/04/19</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2023/01/01</PromotionEndDate>
+      <PromotionEndHour>06:00:00</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>2</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>8.90</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>55.60</DiscountedPrice>
+      <DiscountedPricePerMida>0</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 07:12:37</PriceUpdateDate>
+      <ItemCode>1879627</ItemCode>
+      <ItemType>0</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>39674</PromotionID>
+      <PromotionDescription>פילה ע. 2ב85ש טרי :</PromotionDescription>
+      <PromotionDescription2>פילה עוף טרי</PromotionDescription2>
+      <PromotionStartDate>2020/04/19</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2023/01/01</PromotionEndDate>
+      <PromotionEndHour>06:00:00</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>2</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>5.45</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>72.70</DiscountedPrice>
+      <DiscountedPricePerMida>0</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 07:16:15</PriceUpdateDate>
+      <ItemCode>7290000633855</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>39675</PromotionID>
+      <PromotionDescription>כנף ע. 3ב39ש טרי :</PromotionDescription>
+      <PromotionDescription2>כנפיים עוף טרי</PromotionDescription2>
+      <PromotionStartDate>2020/04/19</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2023/01/01</PromotionEndDate>
+      <PromotionEndHour>06:00:00</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>3</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>3.30</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>33.30</DiscountedPrice>
+      <DiscountedPricePerMida>33.30</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 07:25:56</PriceUpdateDate>
+      <ItemCode>42209</ItemCode>
+      <ItemType>0</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>828829</PromotionID>
+      <PromotionDescription>בשר טחון 2ב110 מנתח מובחר א</PromotionDescription>
+      <PromotionDescription2>בשר טחון מנתח מובחר</PromotionDescription2>
+      <PromotionStartDate>2020/03/17</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/04</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>2</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>4.20</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>94</DiscountedPrice>
+      <DiscountedPricePerMida>0</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 07:27:21</PriceUpdateDate>
+      <ItemCode>41323</ItemCode>
+      <ItemType>0</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>3</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>86955</PromotionID>
+      <PromotionDescription>סטייק ב79.90ש אנטריקוט מיושן א</PromotionDescription>
+      <PromotionDescription2>סטייק אנטריקוט מיושן</PromotionDescription2>
+      <PromotionStartDate>2020/05/02</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2023/01/01</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>1</MinQty>
+      <MaxQty>15</MaxQty>
+      <DiscountRate>16.30</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>68.30</DiscountedPrice>
+      <DiscountedPricePerMida>0</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>15</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/03 17:43:41</PriceUpdateDate>
+      <ItemCode>403</ItemCode>
+      <ItemType>0</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>3</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>9307</PromotionID>
+      <PromotionDescription>פילה סלמון ב79.90 מוגבל ל3ק"ג</PromotionDescription>
+      <PromotionDescription2>פילה סלמון טרי</PromotionDescription2>
+      <PromotionStartDate>2020/05/04</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/09</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>1</MinQty>
+      <MaxQty>6</MaxQty>
+      <DiscountRate>17.10</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>68.30</DiscountedPrice>
+      <DiscountedPricePerMida>0</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>6</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+  </Sales>
+</Promos>

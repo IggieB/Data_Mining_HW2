@@ -1,0 +1,4 @@
+,ChainID,StoreID,ItemCode,PromotionID,PromotionDescription,PromotionStartDate,PromotionStartHour,PromotionEndDate,PromotionEndHour,MinQty,DiscountedPrice,DiscountedPricePerMida
+0,72906,,8934878081798,,*דפי אורז 2ב15ש 400ג,2020/05/03,06:00:00,2020/05/15,23:59:59,2,15,1.88
+1,72906,,8934878081811,,*דפי אורז 2ב15ש 400ג,2020/05/03,06:00:00,2020/05/15,23:59:59,2,15,1.88
+2,72906,,7290011300975,,"סבון 2ב10ש 500מ""ל",2020/04/16,06:10:00,2020/05/08,23:59:59,2,10,10

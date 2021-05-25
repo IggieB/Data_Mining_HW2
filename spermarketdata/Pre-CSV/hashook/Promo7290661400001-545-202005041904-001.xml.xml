@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Promos>
+  <ChainID>72906</ChainID>
+  <SubChainID>0</SubChainID>
+  <StoreID>045</StoreID>
+  <BikoretNo>000</BikoretNo>
+  <Sales>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 19:02:53</PriceUpdateDate>
+      <ItemCode>2345022</ItemCode>
+      <ItemType>0</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>113553</PromotionID>
+      <PromotionDescription>*סטייק 2ב25ש מינוט דק דק</PromotionDescription>
+      <PromotionDescription2>אנטריקוט/סינטה דק דק קפוא 250 גרם מינוט</PromotionDescription2>
+      <PromotionStartDate>2020/05/03</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/15</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>2</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>12.40</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>25</DiscountedPrice>
+      <DiscountedPricePerMida>5</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 19:02:21</PriceUpdateDate>
+      <ItemCode>7290000104799</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>2280228</PromotionID>
+      <PromotionDescription>ירקות 2ב30ש סנפרוסט המשתתפים במבצע*</PromotionDescription>
+      <PromotionDescription2>ירקות סנפרוסט המשתתפים</PromotionDescription2>
+      <PromotionStartDate>2020/05/04</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>2</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>3.90</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>30</DiscountedPrice>
+      <DiscountedPricePerMida>30</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 19:02:21</PriceUpdateDate>
+      <ItemCode>7290000104805</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>2280228</PromotionID>
+      <PromotionDescription>ירקות 2ב30ש סנפרוסט המשתתפים במבצע*</PromotionDescription>
+      <PromotionDescription2>ירקות סנפרוסט המשתתפים</PromotionDescription2>
+      <PromotionStartDate>2020/05/04</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>2</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>4.90</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>30</DiscountedPrice>
+      <DiscountedPricePerMida>1.88</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 19:02:21</PriceUpdateDate>
+      <ItemCode>7290000107189</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>2280228</PromotionID>
+      <PromotionDescription>ירקות 2ב30ש סנפרוסט המשתתפים במבצע*</PromotionDescription>
+      <PromotionDescription2>ירקות סנפרוסט המשתתפים</PromotionDescription2>
+      <PromotionStartDate>2020/05/04</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>2</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>5.90</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>30</DiscountedPrice>
+      <DiscountedPricePerMida>3.75</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 18:13:51</PriceUpdateDate>
+      <ItemCode>7290110321048</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>2281517</PromotionID>
+      <PromotionDescription>יופלה גו 4ב18ש 200מ"ל*</PromotionDescription>
+      <PromotionDescription2>יופלה GO תנובה 200 מ"ל</PromotionDescription2>
+      <PromotionStartDate>2020/04/23</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:09</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>4</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>0.40</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>18</DiscountedPrice>
+      <DiscountedPricePerMida>2.25</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 18:13:51</PriceUpdateDate>
+      <ItemCode>7290110321680</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>2281517</PromotionID>
+      <PromotionDescription>יופלה גו 4ב18ש 200מ"ל*</PromotionDescription>
+      <PromotionDescription2>יופלה GO תנובה 200 מ"ל</PromotionDescription2>
+      <PromotionStartDate>2020/04/23</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:09</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>4</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>1</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>18</DiscountedPrice>
+      <DiscountedPricePerMida>2.25</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 18:13:51</PriceUpdateDate>
+      <ItemCode>7290110321697</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>2281517</PromotionID>
+      <PromotionDescription>יופלה גו 4ב18ש 200מ"ל*</PromotionDescription>
+      <PromotionDescription2>יופלה GO תנובה 200 מ"ל</PromotionDescription2>
+      <PromotionStartDate>2020/04/23</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:09</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>4</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>1</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>18</DiscountedPrice>
+      <DiscountedPricePerMida>2.25</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 18:13:51</PriceUpdateDate>
+      <ItemCode>7290110321703</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>2281517</PromotionID>
+      <PromotionDescription>יופלה גו 4ב18ש 200מ"ל*</PromotionDescription>
+      <PromotionDescription2>יופלה GO תנובה 200 מ"ל</PromotionDescription2>
+      <PromotionStartDate>2020/04/23</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:09</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>4</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>1</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>18</DiscountedPrice>
+      <DiscountedPricePerMida>2.25</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 18:13:51</PriceUpdateDate>
+      <ItemCode>7290110323592</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>2281517</PromotionID>
+      <PromotionDescription>יופלה גו 4ב18ש 200מ"ל*</PromotionDescription>
+      <PromotionDescription2>יופלה GO תנובה 200 מ"ל</PromotionDescription2>
+      <PromotionStartDate>2020/04/23</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:09</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>4</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>1</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>18</DiscountedPrice>
+      <DiscountedPricePerMida>2.25</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 18:13:51</PriceUpdateDate>
+      <ItemCode>7290110324353</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>2281517</PromotionID>
+      <PromotionDescription>יופלה גו 4ב18ש 200מ"ל*</PromotionDescription>
+      <PromotionDescription2>יופלה GO תנובה 200 מ"ל</PromotionDescription2>
+      <PromotionStartDate>2020/04/23</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:09</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>4</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>1</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>18</DiscountedPrice>
+      <DiscountedPricePerMida>2.25</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 18:13:51</PriceUpdateDate>
+      <ItemCode>7290110325695</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>2281517</PromotionID>
+      <PromotionDescription>יופלה גו 4ב18ש 200מ"ל*</PromotionDescription>
+      <PromotionDescription2>יופלה GO תנובה 200 מ"ל</PromotionDescription2>
+      <PromotionStartDate>2020/04/23</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/30</PromotionEndDate>
+      <PromotionEndHour>23:59:09</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>4</MinQty>
+      <MaxQty>0</MaxQty>
+      <DiscountRate>1.40</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>18</DiscountedPrice>
+      <DiscountedPricePerMida>2.25</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+    <Sale>
+      <PriceUpdateDate>2020/05/04 18:47:13</PriceUpdateDate>
+      <ItemCode>7290112495433</ItemCode>
+      <ItemType>1</ItemType>
+      <IsGiftItem>0</IsGiftItem>
+      <RewardType>10</RewardType>
+      <AllowMultipleDiscounts>0</AllowMultipleDiscounts>
+      <PromotionID>93013</PromotionID>
+      <PromotionDescription>דליפקאן ב14.90ש עד3יח 400ג :</PromotionDescription>
+      <PromotionDescription2>דליפקאן 400 גרם תלמה</PromotionDescription2>
+      <PromotionStartDate>2020/05/03</PromotionStartDate>
+      <PromotionStartHour>06:00:00</PromotionStartHour>
+      <PromotionEndDate>2020/05/15</PromotionEndDate>
+      <PromotionEndHour>23:59:59</PromotionEndHour>
+      <ClubID>0</ClubID>
+      <MinQty>2</MinQty>
+      <MaxQty>1</MaxQty>
+      <DiscountRate>6.90</DiscountRate>
+      <DiscountType>1</DiscountType>
+      <MinPurchaseAmount>0</MinPurchaseAmount>
+      <DiscountedPrice>30</DiscountedPrice>
+      <DiscountedPricePerMida>3.75</DiscountedPricePerMida>
+      <MinNoOfItemsOffered>0</MinNoOfItemsOffered>
+      <AdditionalsCoupon />
+      <AdditionalsGiftCount>1</AdditionalsGiftCount>
+      <AdditionalsTotals />
+      <AdditionalsMinBasketAmount />
+      <AdditionalRestrictions />
+      <Remarks> </Remarks>
+    </Sale>
+  </Sales>
+</Promos>
