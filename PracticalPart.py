@@ -5,11 +5,11 @@
 
 import pandas as pd # Don't forget to install before running!
 import matplotlib # Don't forget to install before running!
-import natsort # Don't forget to install before running!
 import gzip
 import shutil
 import os
 import xml.etree.ElementTree as Xet
+import csv
 
 
 DIRECTORIES = ["spermarketdata/hashook",
@@ -38,6 +38,7 @@ PROMO_COLS_VER2 = ["ChainID", "StoreID", "ItemCode",
               "MinQty", "DiscountedPrice", "DiscountedPricePerMida"]
 PRICE_COLS = ["ItemName", "ManufactureName", "UnitQty", "Quantity",
              "QtyInPackage", "ItemPrice", "UnitOfMeasurePrice"]
+COKE_PRODUCTS = {"קוקה קולה זירו 2 ליטר": "קוקה קולה זירו 2ליטר בודד"}
 
 
 def invalid_file_formats(directories):
@@ -411,18 +412,54 @@ def extract_branch_IDs(directory):
     return branches_lst
 
 
-def extract_specific_product_price(directory, product, branch_lst):
+def find_similar_product(directory, string_lst):
+    files_with_product = []
     files_to_visualize = os.listdir(directory)
     for file in files_to_visualize:
-        data = pd.read_csv(directory + "/" + file)
-        for line in data.PromotionDescription:
-            if product in line:
-                print(line)
+        if file.startswith("PriceFull"):
+            data = pd.read_csv(directory + "/" + file)
+            for line in data.ItemName:
+                line_relevant = True
+                for string in string_lst:
+                    if string not in line:
+                        line_relevant = False
+                if line_relevant:
+                    files_with_product.append(file)
+    return files_with_product
+
+
+def initialize_prices_dict(directory, relevant_branches, string, chain_name):
+    relevant_product_lines = []
+    for file in relevant_branches:
+        single_file = directory + "/" + file
+        with open(single_file, "r", encoding="utf8") as f:
+            reader = csv.reader(f, delimiter="\t")
+            for line in reader:
+                splitted_line = str(line[0]).split(",")
+                for part in splitted_line:
+                    if string in part:
+                        if splitted_line not in relevant_product_lines:
+                            splitted_line.append(chain_name)
+                            relevant_product_lines.append(splitted_line)
+    return relevant_product_lines
+
+
+def unite_product_name(chain_lines1, chain_lines2):
+
+
 
 
 if __name__ == "__main__":
-    # pd.set_option('display.max_columns', None)
-    folder_visualize = "spermarketdata\Visualize"
-    # print(visualize1(folder_visualize))
-    branch_lst = extract_branch_IDs(folder_visualize)
-    extract_specific_product_price(folder_visualize, "בירה", branch_lst)
+    relevant_branches_victory = find_similar_product("spermarketdata/victory", ["קוקה "
+                                                                   "קולה"])
+    product_lines_victory = initialize_prices_dict("spermarketdata/victory",
+                                           relevant_branches_victory,
+                                                   "קוקה קולה", "ויקטורי")
+    print(product_lines_victory)
+    relevant_branches_hashook = find_similar_product("spermarketdata/hashook",
+                                                     ["קוקה "
+                                                      "קולה"])
+    product_lines_hashook = initialize_prices_dict("spermarketdata/hashook",
+                                                   relevant_branches_hashook,
+                                                   "קוקה קולה", "השוק")
+    print(product_lines_hashook)
