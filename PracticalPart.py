@@ -1,10 +1,10 @@
 #####################################################################
-# important! I decompressed all the data files to a folder I named
+# important! all the data files were decompressed to a folder named
 # supermarketdata. If you don't do that as well you will have some errors!!!
 #####################################################################
 
-import pandas as pd # Don't forget to install before running!
-import matplotlib # Don't forget to install before running!
+import pandas as pd  # Don't forget to install before running!
+import matplotlib.pyplot as plt
 import gzip
 import shutil
 import os
@@ -12,33 +12,36 @@ import xml.etree.ElementTree as Xet
 import csv
 
 
-DIRECTORIES = ["spermarketdata/hashook",
-               "spermarketdata/keshet", "spermarketdata/mega",
-               "spermarketdata/osherad", "spermarketdata/ramilevi",
-               "spermarketdata/tivtaam", "spermarketdata/victory"]
-STORES_DIRECTORIES = ["spermarketdata/tivtaam", "spermarketdata/ramilevi",
-                      "spermarketdata/osherad", "spermarketdata/keshet"]
-PROMO_DIRECTORIES = []
+DIRECTORIES = ["supermarketdata/hashook",
+               "supermarketdata/keshet", "supermarketdata/mega",
+               "supermarketdata/osherad", "supermarketdata/ramilevi",
+               "supermarketdata/tivtaam", "supermarketdata/victory"]
+STORES_DIRECTORIES = ["supermarketdata/tivtaam", "supermarketdata/ramilevi",
+                      "supermarketdata/osherad", "supermarketdata/keshet"]
 STORES_COLS = ["ChainName", "StoreId", "BikoretNo", "StoreType", "StoreName",
                "Address", "City"]
 STORES_FULL_COLS = ["ChainID", "ChainName", "StoreID", "SubChainName",
-                  "StoreName", "Address", "City"]
+                    "StoreName", "Address", "City"]
 PROMO_COLS = ["StoreId", "Promotions Count", "PromotionId",
               "PromotionDescription", "PromotionStartDate",
               "PromotionStartHour", "PromotionEndDate", "PromotionEndHour",
               "MinQty", "DiscountedPrice", "DiscountedPricePerMida"]
 PROMO_FULL_COLS = ["ChainID", "StoreID", "ItemCode",
-              "PromotionID", "PromotionDescription",
-              "PromotionDescription2", "PromotionStartDate",
-              "PromotionStartHour", "PromotionEndDate", "PromotionEndHour",
-              "MinPurchaseAmount", "DiscountedPrice", "DiscountedPricePerMida"]
+                   "PromotionID", "PromotionDescription",
+                   "PromotionDescription2", "PromotionStartDate",
+                   "PromotionStartHour", "PromotionEndDate",
+                   "PromotionEndHour", "MinPurchaseAmount",
+                   "DiscountedPrice", "DiscountedPricePerMida"]
 PROMO_COLS_VER2 = ["ChainID", "StoreID", "ItemCode",
-              "PromotionID", "PromotionDescription", "PromotionStartDate",
-              "PromotionStartHour", "PromotionEndDate", "PromotionEndHour",
-              "MinQty", "DiscountedPrice", "DiscountedPricePerMida"]
+                   "PromotionID", "PromotionDescription", "PromotionStartDate",
+                   "PromotionStartHour", "PromotionEndDate",
+                   "PromotionEndHour", "MinQty", "DiscountedPrice",
+                   "DiscountedPricePerMida"]
 PRICE_COLS = ["ItemName", "ManufactureName", "UnitQty", "Quantity",
-             "QtyInPackage", "ItemPrice", "UnitOfMeasurePrice"]
-COKE_PRODUCTS = {"קוקה קולה זירו 2 ליטר": "קוקה קולה זירו 2ליטר בודד"}
+              "QtyInPackage", "ItemPrice", "UnitOfMeasurePrice"]
+CHAINS_DICT = {"7290661400001": "hashook", "7290785400000": "keshet",
+               "7290103152017": "osherad", "7290058140886": "ramilevi",
+               "7290873255550": "tivtaam", "7290696200003": "victory"}
 
 
 def invalid_file_formats(directories):
@@ -103,8 +106,8 @@ def convert_stores_xml_to_csv(directories):
                     xmlparse = Xet.parse(full_path)
                     root = xmlparse.getroot()
                     chain_name = root.find("ChainName").text
-                    # going in the relevant tag withing the xml tree and extracting
-                    # the data
+                    # going in the relevant tag withing the xml tree and
+                    # extracting the data
                     for subchains in root:
                         for subchain in subchains:
                             for stores in subchain:
@@ -146,7 +149,7 @@ def convert_stores_full_xml_to_csv(directories):
             if file.startswith("StoresFull"):
                 full_path = directory + "/" + file
                 cols = ["ChainID", "ChainName", "StoreID", "SubChainName",
-                  "StoreName", "Address", "City"]
+                        "StoreName", "Address", "City"]
                 rows = []
                 # Parsing the XML file
                 xmlparse = Xet.parse(full_path)
@@ -178,6 +181,13 @@ def convert_stores_full_xml_to_csv(directories):
 
 
 def convert_promo_xml_to_csv(directories):
+    """
+    convert xml files to cvs files with the same name to transfer the data
+    to a more "manipulation-friendly" format.
+    :param directories: directories with data xml files
+    :return: no return value, new csv files are created in the same folders
+    of the original xml files.
+    """
     for directory in directories:
         files_in_directory = os.listdir(directory)
         for file in files_in_directory:
@@ -236,6 +246,16 @@ def convert_promo_xml_to_csv(directories):
 
 
 def convert_promo_xml_to_csv_ver2(directories):
+    """
+    convert xml files to cvs files with the same name to transfer the data
+    to a more "manipulation-friendly" format. This additional version was
+    created because small different in the tag names ("ChainId" VS
+    "ChainID") made it problematic for the previous function to parse some
+    of the files.
+    :param directories: directories with data xml files
+    :return: no return value, new csv files are created in the same folders
+    of the original xml files.
+    """
     for directory in directories:
         files_in_directory = os.listdir(directory)
         for file in files_in_directory:
@@ -295,6 +315,13 @@ def convert_promo_xml_to_csv_ver2(directories):
 
 
 def convert_promo_full_xml_to_csv(directories):
+    """
+    convert xml files to cvs files with the same name to transfer the data
+    to a more "manipulation-friendly" format.
+    :param directories: directories with data xml files
+    :return: no return value, new csv files are created in the same folders
+    of the original xml files.
+    """
     for directory in directories:
         files_in_directory = os.listdir(directory)
         for file in files_in_directory:
@@ -354,7 +381,6 @@ def convert_promo_full_xml_to_csv(directories):
                                          discounted_price_mida
                                      })
 
-
                 df = pd.DataFrame(rows, columns=cols)
                 # Writing dataframe to csv
                 df.to_csv(full_path[:-3] + "csv")
@@ -362,6 +388,13 @@ def convert_promo_full_xml_to_csv(directories):
 
 
 def convert_price_xml_to_csv(directories):
+    """
+    convert xml files to cvs files with the same name to transfer the data
+    to a more "manipulation-friendly" format.
+    :param directories: directories with data xml files
+    :return: no return value, new csv files are created in the same folders
+    of the original xml files.
+    """
     for directory in directories:
         files_in_directory = os.listdir(directory)
         for file in files_in_directory:
@@ -400,66 +433,48 @@ def convert_price_xml_to_csv(directories):
                 os.remove(full_path)
 
 
-def extract_branch_IDs(directory):
-    branches_lst = []
-    files_to_visualize = os.listdir(directory)
-    for file in files_to_visualize:
-        data = pd.read_csv(directory + "/" + file)
-        relevant_data = data.StoreID  # not general, refers only to Date called column
-        for line in relevant_data:
-            if line not in branches_lst:
-                branches_lst.append(line)
-    return branches_lst
+def count_stores_num(directories):
+    """
+    this function goes over the list of directories given, if a a "stores"
+    file is found it will extract the number of branches said chain has.
+    :param directories: All the relevant chains directories
+    :return: a dictionary with chain names as the keys and number of
+    branches as values.
+    """
+    chains_branches = {}
+    for directory in directories:
+        files_in_directory = os.listdir(directory)
+        for file in files_in_directory:
+            if file.startswith("Stores"):
+                file_name = file.split("-")
+                chain_id = file_name[0][-13:]
+                chain_name = CHAINS_DICT[chain_id]
+                with open(directory + "/" + file, encoding='utf-8') as f:
+                    reader = csv.reader(f)
+                    branches_num = len(list(reader)) - 1
+                    chains_branches[chain_name] = branches_num
+    return chains_branches
 
 
-def find_similar_product(directory, string_lst):
-    files_with_product = []
-    files_to_visualize = os.listdir(directory)
-    for file in files_to_visualize:
-        if file.startswith("PriceFull"):
-            data = pd.read_csv(directory + "/" + file)
-            for line in data.ItemName:
-                line_relevant = True
-                for string in string_lst:
-                    if string not in line:
-                        line_relevant = False
-                if line_relevant:
-                    files_with_product.append(file)
-    return files_with_product
-
-
-def initialize_prices_dict(directory, relevant_branches, string, chain_name):
-    relevant_product_lines = []
-    for file in relevant_branches:
-        single_file = directory + "/" + file
-        with open(single_file, "r", encoding="utf8") as f:
-            reader = csv.reader(f, delimiter="\t")
-            for line in reader:
-                splitted_line = str(line[0]).split(",")
-                for part in splitted_line:
-                    if string in part:
-                        if splitted_line not in relevant_product_lines:
-                            splitted_line.append(chain_name)
-                            relevant_product_lines.append(splitted_line)
-    return relevant_product_lines
-
-
-def unite_product_name(chain_lines1, chain_lines2):
-
-
+def create_stores_df(stores_dict):
+    """
+    this function creates the visualization of stores between the different
+    chains. Based on the dict it gets it converts it into a dataframe and
+    uses matplotlib.pyplot to plot it visually.
+    :param stores_dict: A dictionary with the names of the chains and the
+    number of their branches.
+    :return: No return value, the function generates a plot.
+    """
+    dataframe = pd.DataFrame.from_dict(stores_dict, orient="index",
+                                       columns=["Number of active branches"])
+    dataframe.plot(kind='bar')
+    plt.ylabel("Number of active branches")
+    plt.title("Branches by chain")
+    plt.xticks(rotation=0, horizontalalignment="center")
+    plt.xlabel("Chain names")
+    plt.show()
 
 
 if __name__ == "__main__":
-    relevant_branches_victory = find_similar_product("spermarketdata/victory", ["קוקה "
-                                                                   "קולה"])
-    product_lines_victory = initialize_prices_dict("spermarketdata/victory",
-                                           relevant_branches_victory,
-                                                   "קוקה קולה", "ויקטורי")
-    print(product_lines_victory)
-    relevant_branches_hashook = find_similar_product("spermarketdata/hashook",
-                                                     ["קוקה "
-                                                      "קולה"])
-    product_lines_hashook = initialize_prices_dict("spermarketdata/hashook",
-                                                   relevant_branches_hashook,
-                                                   "קוקה קולה", "השוק")
-    print(product_lines_hashook)
+    stores_num_dict = count_stores_num(DIRECTORIES)
+    create_stores_df(stores_num_dict)
